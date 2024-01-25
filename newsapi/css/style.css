@@ -1,0 +1,26 @@
+/* style.css */
+
+/* Padding untuk semua elemen */
+body {
+  padding: 20px;
+}
+
+/* Padding untuk elemen dengan class "container" */
+.container {
+  padding: 10px;
+}
+
+/* Padding untuk elemen <h1> */
+h1 {
+  padding: 15px;
+}
+
+/* Padding untuk elemen <p> */
+p {
+  padding: 8px;
+}
+
+/* Padding untuk elemen dengan ID "header" */
+#header {
+  padding: 20px;
+}
